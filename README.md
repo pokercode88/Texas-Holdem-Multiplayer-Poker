@@ -92,6 +92,11 @@ Suitable for:
 ✔ Platform rake（抽水）
 ✔ Prize pool control（奖池管理）
 👉 Core revenue driver for poker platforms 👉 平台核心盈利来源 👉 平台核心盈利來源
+
+📞 Contact | 联系方式 | 聯絡方式
+💬 Contact now for full source code & live demo
+📧 Email: ttpoker40@gmail.com
+💬 Telegram: @alibabama401
 ## 📸 Screenshots | 项目展示 | 專案展示
 
 ![DE07B42F7315FB5A02D68DBA3FB9E954](https://github.com/user-attachments/assets/b94086b3-971b-47ce-aeaf-032dbb1825f9)
@@ -134,12 +139,6 @@ Perfect for poker business / startup / casino
 適合創業 / 棋牌 / 出海  
 
 ---
-
-## 📞 Contact | 联系方式 | 聯絡方式
-
-💬 Contact now for full source code & live demo  
-📧 Email: ttpoker40@gmail.com  
-💬 Telegram: @alibabama401  
 
 ---
 
